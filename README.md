@@ -1,2 +1,2 @@
-# GModStuff
-Stuff for my Garry's Mod server
+# GarrysModServerGuide
+Simple server guide that shows when you join my Garry's Mod server
